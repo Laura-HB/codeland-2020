@@ -1,6 +1,6 @@
 import React from "react";
 import { mount } from 'enzyme';
-import Laura from '../pages/participants/emily';
+import Laura from '../pages/participants/laura';
 
 describe("Laura's page", () => {
   it("displays Laura's name", () => {
